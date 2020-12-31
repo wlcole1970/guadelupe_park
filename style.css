@@ -44,6 +44,11 @@
 
 .navbar-toggler-icon {
     color: #fff;
+ 
+}
+
+.navbar-dark {
+    color: #fff;
 }
 
 .container1 {
@@ -134,4 +139,5 @@
         font-size: 2.8em;
         text-align: center;
     }
+    
 }
